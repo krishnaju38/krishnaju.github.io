@@ -1,6 +1,6 @@
 <header>
     <h1>Krishna Prosad Mondal</h1>
-    <p>Contact Information: krishna.ju38@juniv.edu | Your GitHub: <a href="https://github.com/krishnaju38">github.com/yourusername</a></p>
+    <p>Contact Information: krishna.ju38@juniv.edu | Your GitHub: <a href="krishnaju.github.io</a></p>
 </header>
 
 <div class="container">
