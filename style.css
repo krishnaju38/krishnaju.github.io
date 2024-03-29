@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: #007bff;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1, header p {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section:nth-child(even) {
+    background: #f4f4f4;
+}
+
+section h2 {
+    color: #333333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer {
+    background: #333333;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
